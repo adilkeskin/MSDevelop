@@ -1,1 +1,1 @@
-# MSDevelop, Visual Studio ile hazırlanmış deneme projesidir. 
+# MSDevelop is, Visual Studio ile hazırlanmış deneme projesidir. 
